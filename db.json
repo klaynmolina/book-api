@@ -5,8 +5,7 @@
           "Name": "Box Cidade dos Ossos", 
           "Price": 200.00, 
           "Category": "Fantasia", 
-          "Img": "1",
-          "Description": "Lorem ipsum" 
+          "Img": "1"
         },
         {
             "Id": "2",
