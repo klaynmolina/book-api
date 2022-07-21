@@ -3,48 +3,42 @@
         {
           "Id": "1",
           "Name": "Box Cidade dos Ossos", 
-          "Price": 200, 
-          "Quantity": 1, 
+          "Price": 200.00, 
           "Category": "Fantasia", 
           "Img": "1" 
         },
         {
             "Id": "2",
             "Name": "Box House of Night", 
-            "Price": 90, 
-            "Quantity": 1, 
+            "Price": 90.00, 
             "Category": "Fantasia", 
             "Img": "2" 
           },
           {
             "Id": "3",
             "Name": "Box Credpúsculo", 
-            "Price": 160, 
-            "Quantity": 1, 
+            "Price": 160.00, 
             "Category": "Fantasia", 
             "Img": "3" 
           },
           {
             "Id": "4",
             "Name": "Game of Thrones", 
-            "Price": 500, 
-            "Quantity": 1, 
+            "Price": 500.00, 
             "Category": "Fantasia", 
             "Img": "4" 
           },
           {
             "Id": "5",
             "Name": "Box Hush Hush", 
-            "Price": 150, 
-            "Quantity": 1, 
+            "Price": 150.00, 
             "Category": "Romance", 
             "Img": "5" 
           },
           {
             "Id": "6",
             "Name": "Apenas Amigos", 
-            "Price": 24, 
-            "Quantity": 15, 
+            "Price": 24.00, 
             "Category": "Romance", 
             "Img": "6" 
           }        
